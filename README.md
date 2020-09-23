@@ -1,4 +1,4 @@
-#Leverage Python & Google Cloud for meaningful SEO insights from your Server Log data (pt.1)
+# Leverage Python & Google Cloud for meaningful SEO insights from your Server Log data (pt.1)
 
 
 You can read the [full step-by-step article](https://searchengineland.com/leverage-python-and-google-cloud-to-extract-meaningful-seo-insights-from-server-log-data-329199) on Search Engine Land.
